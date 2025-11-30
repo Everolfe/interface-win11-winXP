@@ -1,0 +1,7 @@
+#каталоги
+Debug/
+x64/
+
+*.vcxproj
+Interface.vcxproj.user
+Interface.vcxproj.filters
