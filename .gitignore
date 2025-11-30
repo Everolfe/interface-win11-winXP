@@ -1,7 +1,7 @@
 #каталоги
 Debug/
 x64/
-
+XP_Files/*.zip
 *.vcxproj
 Interface.vcxproj.user
 Interface.vcxproj.filters
